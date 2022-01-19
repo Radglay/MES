@@ -1,0 +1,12 @@
+100 – initial temperature
+100 – simulation time [s],
+1 – simulation step time [s],
+1200 – ambient temperature [C],
+300 – alfa [W/m2K],
+0.100 – H [m],
+0.100 – B [m],
+31 – N_H,
+31 – N_B,
+700 – specific heat [J/(kgC)],
+25 – conductivity [W/(mC)],
+7800 – density [kg/m3].
